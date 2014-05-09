@@ -1,5 +1,6 @@
 ConsoleSoundAnalyzer
 ====================
+скомпиленная программа и библиотека portaudio в облаке https://cloud.mail.ru/public/e96c5a768ca5/ConsoleSoundAnalyzer
 
 Программа захватывает звук с микрофона и выводит на консоль:
   *Значение мощности максимальной частоты
